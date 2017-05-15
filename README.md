@@ -1,2 +1,2 @@
-# cmake-library-sample
-Sample Cxx project with CMake build system and CatchUnit test for a library
+# cmake-project-sample
+Sample Cxx project with CMake build system and CatchUnit test
